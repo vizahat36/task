@@ -2,3 +2,5 @@ mouse
 pendrive
 monitor
 keyboard
+cpu
+ram
