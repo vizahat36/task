@@ -4,3 +4,4 @@ monitor
 keyboard
 cpu
 ram
+kfg
