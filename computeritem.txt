@@ -1,0 +1,4 @@
+mouse
+pendrive
+monitor
+keyboard
